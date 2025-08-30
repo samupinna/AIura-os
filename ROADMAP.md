@@ -8,7 +8,7 @@ No necesitamos millones. Solo necesitamos comenzar.
 ## 📌 Fase 0: Concepto (✔️ En progreso)
 Cosas que ya están en marcha:
 - [x] Nombre: AIura OS
-- [x] Logo (en diseño)
+- [ ] Logo (en diseño)
 - [x] Visión y valores
 - [x] Repositorio en GitHub
 - [ ] Comunidad inicial
